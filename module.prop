@@ -1,0 +1,7 @@
+id=magisktrustusercerts-android14
+name=MagiskTrustUserCerts for Android 14
+version=v1.0
+versionCode=1
+author=Abdullah Khawaja
+description=Include user-installed certificates in the system trust store for Android 14
+minMagisk=2400
