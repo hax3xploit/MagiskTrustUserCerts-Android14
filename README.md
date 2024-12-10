@@ -10,7 +10,7 @@ The module allows user-installed certificates to be included in the system certi
 - Ensures compatibility with Magisk framework.
 
 ## Installation
-1. Clone or download this repository.
+1. Download the zip from releases.
 2. Install the module via Magisk:
    - Open the Magisk app.
    - Go to **Modules**.
